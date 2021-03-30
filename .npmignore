@@ -1,6 +1,6 @@
 ### This project
-*.js
-*.d.ts
+*.ts
+!*.d.ts
 
 ### Third party
 # Eclipse template
